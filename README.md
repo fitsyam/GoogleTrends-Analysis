@@ -11,3 +11,6 @@ We explore the **most searched terms** and their **trending duration** over the 
 ✅ **Most searched terms** → Identifying the top-trending keywords  
 ✅ **Trending duration** → Analyzing how long a term stays relevant  
 ✅ **Seasonal trends** → Finding recurring patterns in search behavior  
+
+## 📎 Tableau Public Dashboard  
+🔗 **Check out the interactive dashboard here:** https://public.tableau.com/views/project_google_trends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
