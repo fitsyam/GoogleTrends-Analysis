@@ -1,6 +1,6 @@
 ## 📌 Project Overview  
-This project analyzes **rising search trends** from Google Trends using BigQuery SQL and visualizes insights in Tableau Public.  
-We explore the **most searched terms** and their **trending duration** over the past three years (2022-2025).  
+This simple project analyzes **rising search trends** from Google Trends using BigQuery SQL and visualizes insights in Tableau Public.  
+The analysis focuses on the most searched terms and their trending duration over the past three years (2022-2025).
 
 ## 🛠 Tech Stack  
 - **BigQuery (SQL)** → Data extraction and transformation  
